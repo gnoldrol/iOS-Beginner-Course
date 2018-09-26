@@ -33,9 +33,9 @@
 > var myInt : Int = 1  
 > var myFloat : Float = 1.0  
 > var myDouble : Double  = 2.0  
-> var myBool = true
-> var myString = "thay giao dep trai"
-> var myArray = [1, 2, 3, 4]
+> var myBool = true  
+> var myString = "thay giao dep trai"  
+> var myArray = [1, 2, 3, 4]  
 > var myDict = ["name" : "Long", "age" : 11]
 
     Ta có thể khai báo kiểu dữ liệu cho một biến hoặc không, Swift sẽ tự định danh kiểu dữ liệu khi ta khởi tạo giá trị cho biến
